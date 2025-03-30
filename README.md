@@ -109,20 +109,20 @@ By supporting both methods, our system enhances **user experience** while ensuri
 2. **Set up the backend:**  
    - Update database credentials in the config file.
    - Install dependencies:
-     ```bash
+   ```bash
      npm install
    
-   - Start the server:
+- Start the server:
     ```bash
     npm start
 
 3. **Set up the frontend:**
    - Navigate to the frontend directory:
   
-     ```bash
+   ```bash
      cd frontend
    
-   - Install dependencies:
+  - Install dependencies:
     ```bash
      npm install
 
