@@ -105,3 +105,38 @@ By supporting both methods, our system enhances **user experience** while ensuri
    ```bash
    git clone https://github.com/yourusername/login-page.git
    cd login-page
+
+2. **Set up the backend:**  
+   - Update database credentials in the config file.
+   - Install dependencies:
+     ```bash
+     npm install
+   
+   - Start the server:
+    ```bash
+    npm start
+
+3. **Set up the frontend:**
+   - Navigate to the frontend directory:
+  
+     ```bash
+     cd frontend
+   
+   - Install dependencies:
+    ```bash
+     npm install
+
+  - Start the React app:
+    ```bash
+    npm start
+    
+4.**Test the application in your browser!**
+
+## 🌟 Contributions & Support
+
+We welcome contributions to make this project even better! Feel free to:
+
+- Fork the repository.
+- Submit pull requests with feature improvements or bug fixes.
+
+If you encounter any issues or have suggestions, please open an issue in the repository. 😊
